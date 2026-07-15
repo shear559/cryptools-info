@@ -1,6 +1,8 @@
 # Cryptools
 
-> **Privacy-first developer tool suite — 47 tools that never leave your browser.**
+> **Privacy-first developer tool suite — 42 tools that never leave your browser.**
+
+**Live:** [cryptools-brown.vercel.app](https://cryptools-brown.vercel.app)
 
 A single-page web app for the things developers reach for daily: hashing, encryption, key generation, JWT/PASETO, post-quantum cryptography, AI-prompt security, and 30+ more.
 
@@ -133,7 +135,7 @@ Web Crypto API + CDN libs (spark-md5, crc-32, js-sha3, qrcode, cronstrue, bcrypt
 
 ## License
 
-All rights reserved. Source code is in a private repository. This public repo serves as the project landing page.
+All rights reserved. Source code is in a private repository. This public repo serves as the project landing page for the live app at [cryptools-brown.vercel.app](https://cryptools-brown.vercel.app).
 
 ---
 
