@@ -4,6 +4,10 @@
 
 **Live:** [cryptools-brown.vercel.app](https://cryptools-brown.vercel.app)
 
+<p align="center">
+  <img src="assets/preview.webp" alt="cryptools — the live site" width="100%">
+</p>
+
 A single-page web app for the things developers reach for daily: hashing, encryption, key generation, JWT/PASETO, post-quantum cryptography, AI-prompt security, and 30+ more.
 
 Built for engineers who care about **what happens to their data** — every operation runs client-side via Web Crypto and audited libraries. No upload. No analytics. No backend. No tracking.
