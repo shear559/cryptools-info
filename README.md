@@ -144,3 +144,7 @@ All rights reserved. Source code is in a private repository. This public repo se
 ---
 
 Built by [@ArielShemesh1999](https://github.com/ArielShemesh1999). Design tokens derived from the Sculio editor (Lovable cream + Kraken precision, accent swapped to emerald).
+
+---
+
+The sealing design this implements is written up in full, with a runnable reference package, in [seal-provenance](https://github.com/ArielShemesh1999/seal-provenance).
